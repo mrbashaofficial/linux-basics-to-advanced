@@ -112,4 +112,4 @@ Welcome to the **Linux Basics to Advanced** course! This comprehensive course is
 ## **Get Started**
 Clone this repository to follow along with the course:
 ```bash
-git clone <repository-url>
+git clone https://github.com/mrbashaofficial/linux-basics-to-advanced.git
